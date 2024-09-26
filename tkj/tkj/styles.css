@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #d65696;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.profile-pic {
+    width: 150px; /* Atur lebar foto sesuai kebutuhan */
+    height: auto; /* Menjaga rasio aspek foto */
+    border-radius: 50%; /* Membuat foto menjadi bulat */
+    margin-bottom: 15px; /* Jarak antara foto dan teks */
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #e47fd3;
+}
+
+section {
+    margin-bottom: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #ee68ba;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
